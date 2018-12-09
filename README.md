@@ -8,19 +8,19 @@ your git Experience can change by adding the following lines to your git config 
 
 ### 1. User Info
 
-`
+```
 [user]
 	email = v.vidu171@gmail.com
 	name = vidhyanshu
-`
+```
 
 ### 2. Create Alias
 
 Create alias for all repo url being frequently use
-`
+```
 [url "https://github.com/vidu171/"]
     insteadOf = vidu:
-`
+```
 
 
 ### 3. Open the corrosponding git Repo

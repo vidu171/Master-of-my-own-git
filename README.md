@@ -34,7 +34,7 @@ npm install --global git-open
 
 Some Examples
 
-`
+```sh
 $ git open
 # opens https://github.com/TRACKED_REMOTE_USER/CURRENT_REPO/tree/CURRENT_BRANCH
 
@@ -47,7 +47,6 @@ $ git open someremote somebranch
 $ git open --issue
 # If branches use naming convention of issues/#123,
 # opens https://github.com/TRACKED_REMOTE_USER/CURRENT_REPO/issues/123
-
-`
+```
 Checkout https://github.com/paulirish/git-open for more. 
 

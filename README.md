@@ -22,6 +22,15 @@ Create alias for all repo url being frequently use
     insteadOf = vidu:
 ```
 
+Some more aliases
+```
+[alias]
+  st = status --short --branch # -sb
+  # sometimes you want to see ignored files as well
+  sti = status --short --branch --ignored
+  ci = commit
+  co = checkout  
+ ```
 
 ### 3. Open the corrosponding git Repo
 

@@ -29,7 +29,11 @@ Some more aliases
   # sometimes you want to see ignored files as well
   sti = status --short --branch --ignored
   ci = commit
-  co = checkout  
+  co = checkout 
+  di = diff
+  br = branch
+  rv = remote -v
+
  ```
 
 ### 3. Open the corrosponding git Repo
